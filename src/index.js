@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+//test change
 function Square(props){
       return (
         <button className="square" onClick={() => this.props.onClick()}>
